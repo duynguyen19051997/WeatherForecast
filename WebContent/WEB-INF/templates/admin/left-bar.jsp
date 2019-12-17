@@ -9,7 +9,7 @@
 			<li id="index" class="sidebar-item"><a
 				class="sidebar-link waves-effect waves-dark sidebar-link"
 				href="${pageContext.request.contextPath}/admin" aria-expanded="false"> <i
-					class="fas fa-warehouse"></i><span class="hide-menu">Admim's Homepage</span>
+					class="fas fa-warehouse"></i><span class="hide-menu">Admin's Homepage</span>
 			</a></li>
 
 			<li id="cat" class="sidebar-item"><a
